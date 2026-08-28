@@ -2,7 +2,7 @@
 import java.util.HashMap;
 
 
-public class findSingleNonDuplicate { 
+public class A13_findSingleNonDuplicate { 
   //& bruteforce
   public static void brute(int arr[]){
     // time: O(n^2)

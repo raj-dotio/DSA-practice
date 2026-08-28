@@ -1,4 +1,3 @@
-package easy;
 //yellow PROBLEM: Left Rotate Array by One Place
 /*
 * MEANING:

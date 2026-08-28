@@ -1,4 +1,3 @@
-package easy;
 public class A2_largestElement {
 
   //& time complexity: O(nlogn)  space: O(1)

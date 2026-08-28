@@ -1,4 +1,3 @@
-package easy;
 /*
 * PROBLEM: Left Rotate Array by K Places
 * MEANING:

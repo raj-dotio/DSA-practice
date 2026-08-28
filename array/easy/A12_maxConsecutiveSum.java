@@ -1,4 +1,3 @@
-package easy;
 public class A12_maxConsecutiveSum {
 
   //& optimal (simple) : time: O(n)

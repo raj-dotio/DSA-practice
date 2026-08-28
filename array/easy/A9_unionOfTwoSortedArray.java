@@ -1,4 +1,3 @@
-package easy;
 import java.util.*;
 
 public class A9_unionOfTwoSortedArray {

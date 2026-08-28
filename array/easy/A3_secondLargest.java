@@ -1,4 +1,3 @@
-package easy;
 public class A3_secondLargest {
   
   //& time: O(nlogn + n)

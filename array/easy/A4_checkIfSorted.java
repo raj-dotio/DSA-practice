@@ -1,4 +1,3 @@
-package easy;
 public class A4_checkIfSorted {
 
   public static void brute(int arr[]){
